@@ -1,12 +1,27 @@
+header, body{
+    font-family: 'Noto Sans', sans-serif;
+}
 .portada a{
     color: aliceblue;
-    margin: 5%;
+    margin: 3%;
 }
 .portada{
     margin-top: 2%;
     margin-left: 5%;
 
 }
+#log{
+    margin-left: 20%;
+}
+
+#btnr{
+    margin-left: -1%;
+    border-radius: 24px;
+    border:none;
+    padding: 8px;
+    font-family: 'Noto Sans', sans-serif;
+}
+
 
 #logo{
     margin: 2%;
@@ -16,17 +31,20 @@
 
 body{
     background-color: black;
+    font-family: 'Noto Sans', sans-serif;
 }
 
 .lettersb{
     color: aliceblue;
     margin-left: 10%;
     margin-top: 5%;
+    -webkit-text-stroke: 5px black;
 }
 #letrasg p{
     margin-top: 5%;
-    line-height:0px;
-    font-size: 100px;
+    line-height:10px;
+    font-size: 80px;
+        font-family: 'Noto Sans', sans-serif;
 }
 
 #letrasc{
@@ -34,15 +52,54 @@ body{
     color: rgb(161, 168, 174);
     font-size: 30px;
     margin-left: 10%;
+    -webkit-text-stroke: 2px black;
+    font-family: 'Noto Sans', sans-serif;
 }
 
 .derecha{
     float: right;
-    margin-top: -43%;
-    margin-right: -18%;
+    margin-top: -35%;
+    margin-right: -4%;
 }
 
 .btn{
+    margin-top: 2%;
+    margin-left: 10%;
     border-radius: 24px;
     width: 20%;
+    padding: 15px;
+    font-size: 25px;
+    border: none;
+    font-family: 'Noto Sans', sans-serif;
+}
+
+footer{
+    margin-top: 3%;
+    margin-left: 8%;
+    vertical-align: sub;
+    color: gray;
+}
+
+.coin{
+    float: left;
+    margin-top: 5%;
+    margin-left: 00%;
+}
+
+.blom{
+    float: left;
+    margin-left: -2%;
+    margin-top: 1%;
+}
+
+.yh{
+    margin-left: -3%;
+    margin-top: 1%;
+}
+
+footer p{
+    float: left;
+    font-size: 20px;
+    margin-top: 11%;
+    margin-left: -30%;
 }
