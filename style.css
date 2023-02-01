@@ -1,0 +1,48 @@
+.portada a{
+    color: aliceblue;
+    margin: 5%;
+}
+.portada{
+    margin-top: 2%;
+    margin-left: 5%;
+
+}
+
+#logo{
+    margin: 2%;
+    inline-size: 8%;
+    vertical-align: middle;
+}
+
+body{
+    background-color: black;
+}
+
+.lettersb{
+    color: aliceblue;
+    margin-left: 10%;
+    margin-top: 5%;
+}
+#letrasg p{
+    margin-top: 5%;
+    line-height:0px;
+    font-size: 100px;
+}
+
+#letrasc{
+    line-height:0px;
+    color: rgb(161, 168, 174);
+    font-size: 30px;
+    margin-left: 10%;
+}
+
+.derecha{
+    float: right;
+    margin-top: -43%;
+    margin-right: -18%;
+}
+
+.btn{
+    border-radius: 24px;
+    width: 20%;
+}
